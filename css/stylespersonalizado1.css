@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Verdana, sans-serif;
-    background: url("imagenes/poesias");
+    background-color: #2e4955;
+    color: #5485af;
     
     
 }
@@ -12,7 +13,7 @@ li {
 
 table {
     border-spacing: 0px;
-    background-color: #006633;
+    background-color: #283238;
     font-family: 'Times New Roman', Times, serif;
     
 }
